@@ -2,9 +2,9 @@
 
 Much of this document was taken from Reed Hasting's excellent work on company culture at Netflix. Many thanks to him for publishing that work.
 
-## Company Culture  Statements are Usually Bullshit!
+## Company Culture Statements are Usually Bullshit.
 
-The foundation of Next Glass culture is freedom & responsibility. *We seek excellence*, so our culture is focused on achieving excellence.
+This document is no exception. Unless you believe it. And act on it. The bullshit is always there if you want it to be. The foundation of Next Glass culture is freedom & responsibility. *We seek excellence*, so our culture is focused on achieving excellence.
 
 ## Six Aspects of Our Culture
 1. Values are what we value
@@ -123,6 +123,31 @@ This means:
 * Internal “cutthroat” or “sink or swim” behavior is rare and not tolerated
 
 >We help each other to be great.
+
+What about loyalty? What about hard work? What about the brilliant jerk?
+
+####Loyalty is Good
+* Loyalty is good as a stabilizer.
+* People who have been stars for us and hit a bad patch get a near term pass because we think they’re likely to become stars for us again.
+* We want the same: if Next Glass hits a temporary rough patch, we want people to stick with us.
+* But unlimited loyalty to a shrinking firm, or to an ineffective employee, is not what we are about.
+
+####Hard Work – Not Directly Relevant
+* We don’t measure people by how many hours they work or how much they are in the office.
+* We do care about accomplishing great work.
+* Sustained B-level performance, despite “A for effort”, generates a fair severance package with respect.
+* Sustained A-level performance, despite minimal effort, is rewarded with more responsibility and great pay.
+
+####Brilliant Jerks
+Some companies tolerate them. For us, the cost to teamwork is too high. Diverse styles are fine – as long as the person embodies the 9 values.
+
+####Why are we so insistent on high performance?
+In procedural work, the best are 2x better than the average.
+In creative/inventive work, *the best are 10x better than the average*, so we place a huge premium on creating effective teams of the best people.
+**A great workplace equals Awesome Colleagues.**
+
+
+
 
 
 
