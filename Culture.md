@@ -146,10 +146,63 @@ In procedural work, the best are 2x better than the average.
 In creative/inventive work, *the best are 10x better than the average*, so we place a huge premium on creating effective teams of the best people.
 **A great workplace equals Awesome Colleagues.**
 
+##Freedom and Responsibility
+*Self motivating
+*Self aware
+*Self disciplined
+*Self improving
+*Acts like a leader
+*Doesn’t wait to be told what to do
+*Picks up the trash lying on the floor
 
+####Responsible People Thrive on Freedom
+Our goal and model is to increase employee freedom as we grow, rather than limit it *to continue to attract and nourish innovative people, so that we have a better chance of long-term continued success.*
 
+Most companies curtail freedom in an effort to reduce errors while growing.
 
+In most companies, when growth increases, complexity increases and talent density decreases.
 
+Chaos and errors emerge and spike here as business become too complex to run informally with lower talent level.
+
+Process emerges to stop the chaos. No one loves process, but it feels good compared to the pain of chaos.
+
+Focus on process drives talent out.
+
+####Strong Near-Term Outcome- A highly successful process-driven company
+*With leading share in its market.
+*Minimal thinking required.
+*Few mistakes made – very efficient.
+*Few curious innovator-mavericks remain.
+*Very optimized processes for the existing market.
+
+####Then the Market Shifts
+*Market shifts due to new technology or new competitors or new business models.
+*Company is unable to adapt quickly, because the employees are extremely good at following the existing processes, and process adherence is the value system.
+*Company generally grinds painfully into irrelevance, due to inability to respond to the market shift.
+
+####Seems Like Three Bad Options
+1. Stay creative, by staying small.
+2. Try to avoid rules as you grow, suffer through lots of chaos.
+4. Use process as you grow to drive efficient execution of current model, but cripple creativity, innovation, flexibility, and ability to thrive when market inevitably shifts.
+
+####A Fourth Option
+* Avoid chaos as you grow with Ever More High Performance People – not with Rules.
+* Then you can continue to run informally with self-discipline and avoid chaos.
+* The run informally part is what enables and attracts creativity.
+
+The key: Increase talent density faster than complexity grows
+
+####Increase talent density
+*Top of market compensation.
+*Attract hi-value people through freedom to make an impact.
+*Be demanding about high performance culture.
+
+####Minimize Complexity Growth
+*Few big products vs many small ones.
+*Eliminate distracting complexity (barnacles).
+*Value simplicity.
+
+> With the right people, instead of a Culture of process adherence, a culture of freedom and responsibility, innovation and self-discipline.
 
 
 
