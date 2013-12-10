@@ -1,6 +1,6 @@
 #About
 
-This document explains what we're trying to do here at Next Glass.
+This document explains what we are building here at Next Glass.
 
 
 
