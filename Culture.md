@@ -190,7 +190,7 @@ Focus on process drives talent out.
 * Then you can continue to run informally with self-discipline and avoid chaos.
 * The run informally part is what enables and attracts creativity.
 
-The key: Increase talent density faster than complexity grows
+The key: Increase talent density faster than complexity grows.
 
 ####Increase talent density
 *Top of market compensation.
