@@ -15,7 +15,7 @@ Next Glass pays the health club/gym dues for employees to help promote good heal
 ####Snacks and Drinks
 Next Glass maintains a fully stocked pantry for employees including snacks, drinks, wine and beer to provide convenience and save time. 
 
-    How Do We Do It: Fill the pantry.
+    How Do We Do It? Fill the pantry.
 
 ####Lunch
 Next Glass pays for employees’ lunch in order to provide convenience and promote teammates engaging with one another outside the office.
