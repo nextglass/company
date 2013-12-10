@@ -204,6 +204,180 @@ The key: Increase talent density faster than complexity grows
 
 > With the right people, instead of a Culture of process adherence, a culture of freedom and responsibility, innovation and self-discipline.
 
+But is freedom absolute? Are all rules & processes bad?
+
+Freedom is not absolute. Like “free speech” there are some limited exceptions to “freedom at work”.
+
+####Two Types of Necessary Rules
+1. Prevent irrevocable disaster
+* E.g. Financials produced are wrong
+* E.g. Hackers steal our customers’ credit card info
+2. Moral, ethical, legal issues
+* E.g. Dishonesty, harassment are intolerable
+
+####Mostly Though, Rapid Recovery is the Right Model
+* Just fix problems quickly.
+* High performers make very few errors.
+* We’re in a creative-inventive market, not a safety-critical market like medicine or nuclear power.
+* You’ve heard preventing errors is cheaper than fixing them.
+* True in manufacturing or medicine, but not so in creative environments.
+
+####Rule Creep
+* Bad processes tend to creep in- Preventing errors just sounds so good
+* We try to get rid of rules when we can to reinforce the point
+
+####Example: Next Glass Vacation Policy and Tracking*
+There is no policy or tracking. There is also no clothing policy at Next Glass, but no one has come to work naked lately. You don’t need detailed policies for everything.
+
+Next Glass’ vacation policy doesn’t mean no vacation.
+> Next Glass’ leaders set good examples by taking big vacations – and coming back inspired to find big ideas.
+
+####Another Example of Freedom and Responsibility
+Most companies have complex policies around what you can expense, how you travel, what gifts you can accept, etc. Plus they have whole departments to verify compliance with these policies.
+
+Next Glass Policies for Expensing, Entertainment, Gifts & Travel:
+    Act in Next Glass’ Best Interests
+
+####Act in Next Glass’ Best Interests Generally Means…
+*Expense only what you would otherwise not spend, and is worthwhile for work.
+*Travel as you would if it were your own money.
+*Disclose non-trivial vendor gifts.
+*Take from Next Glass only when it is inefficient to not take, and inconsequential.
+*“taking” means, for example, printing personal documents at work or making personal calls on work phone: inconsequential and inefficient to avoid.
+
+####Summary of Freedom & Responsibility
+*As we grow, we minimize rules.
+*Inhibit chaos with ever more High Performance People.
+*Flexibility is more important than efficiency in the long term.
+
+##Context, not Control
+
+>If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders.  Instead, teach them to yearn for the vast and endless sea. Antoine De Saint-Exupery, Author of The Little Prince
+
+The best leaders figure out how to get great outcomes by setting the appropriate context, rather than by trying to control their people. When you believe in context over control, you try to provide the insight and understanding to enable sound decisions.
+
+####With Context
+*Strategy
+*Metrics
+*Assumptions
+*Objectives
+*Clearly-defined roles 
+*Knowledge of the stakes
+*Transparency around decision-making
+
+####With Control
+*Top-down decision-making
+*Management approval
+*Committees
+*Planning and process valued more than results
+
+####Good Context
+*Link to company/functional goals.
+*Relative priority (how important/how time sensitive).
+*Critical (needs to happen now), or
+*Nice to have (when you can get to it).
+*Level of precision & refinement.
+*No errors (credit cards handling, etc...), or
+*Pretty good / can correct errors (website), or.
+*Rough (experimental).
+*Key stakeholders.
+*Key metrics / clear definition of success.
+
+The best leaders figure out how to get great outcomes by setting the appropriate context, rather than by trying to control their people
+
+    Leaders:
+    When one of your talented people does something dumb, don’t blame them. Instead, ask yourself what context you failed to set.
+    When you are tempted to control people, are you articulate and inspiring enough about your goals and strategies?
+
+##Pay top of market
+
+Paying top of market is core to High Performance Culture. *One outstanding employee gets more done and costs less than two adequate employees.* We endeavor to have only outstanding employees.
+
+####
+Three Tests for Top of Market for a Person
+*What could the person get elsewhere?
+*What would we pay for replacement?
+*What would we pay to keep the person if they had a bigger offer elsewhere?
+
+Our goal is to keep each employee at top of market for that person. That means we pay them more than anyone else likely would. We pay them as much as a replacement would cost. We pay them as much as we would pay to keep them if they had higher offer from elsewhere.
+
+####Titles Are Not Very Helpful
+*Lots of people have the title “Major League Pitcher” but they are not all equally effective.
+*Similarly, all people with the title “Senior Marketing Manager” or “Director of Engineering” are not equally effective.
+*So the art of compensation is answering the Three Tests for each employee.
+
+####When Top of Market Comp is Done Right
+*We will rarely counter with higher comp when someone is voluntarily leaving because we have already moved comp to our max for that person.
+*Employees will feel they are getting paid well relative to their other options in the market.
+
+####It’s Good For Each Employee to Understand Their Market Value
+It’s a healthy idea, not a traitorous idea, to understand what other firms would pay you, by interviewing and talking to peers at other companies. Talk with your manager about what you find. *Minor exception: interviewing with groups that directly compete with Next Glass, because their motive is in part confidential information.*
+
+##Promotions and Development
+In some time periods, in some groups, there will be lots of opportunity and growth at Next Glass. Some people, through both luck and talent, will have extraordinary career growth.
+
+####Baseball Analogy: Minors to Majors
+*Very talented people usually get to move up, but only true for the very talented.
+*Some luck in terms of what positions open up and what the competition is.
+*Some people move to other teams to get the opportunity they want.
+*Great teams keep their best talent.
+*Some minor league players keep playing even though they don’t move up because they love the game.
+
+
+####Two Necessary Conditions for Promotion
+1. Job has to be big enough
+*We might have an incredible manager of something, but we don’t need a director of it because job isn’t big enough
+*If the incredible manager left, we would replace with manager, not with director
+2. Person has to be a superstar in current role
+* Could get the next level job here if applying from outside and we knew their talents well.
+* Could get the next level job at peer firm that knew their talents well.
+
+####Development
+We develop people by giving them the opportunity to develop themselves, by surrounding them with awesome colleagues and giving them big challenges to work on. Mediocre colleagues or unchallenging work is what kills progress of a person’s skills.
+
+Individuals should manage their own career paths, and not rely on a corporation for planning their careers. Like retirement planning – it’s more successful when it’s the individual’s responsibility.
+
+>An individual’s economic security is based upon their skills and reputation. We try hard to consistently provide opportunity to grow both.
+
+We need a culture that supports *rapid innovation and excellent execution.* We need a culture that supports *effective teamwork of high-performance people.*
+
+We need a culture that avoids the rigidity, politics, mediocrity, and complacency that infects most organizations as they grow.
+
+####This document is our current best thinking about maximizing our likelihood of continuous success.
+
+Our culture is a work in progress.
+
+Every year we try to refine our culture further as we learn more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
