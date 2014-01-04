@@ -1,7 +1,7 @@
 Next Glass
 =======
 
-This repo contains a couple of documents that are important to our culture, our benefits and our future. Take a look, and get in touch if us humans are humans you might enjoy hanging out with.
+This repo contains a couple of documents that are important to our [culture](https://github.com/nextglass/company/blob/master/Culture.md), our [benefits](https://github.com/nextglass/company/blob/master/Benefits.md) and our future. Take a look, and get in touch if us humans are humans you might enjoy hanging out with.
 
 ###About
 Join us in revolutionizing how people enjoy wine. Help us make every next glass, the perfect glass. Next Glass™ is like Pandora® for wine, delivering great wine recommendations every time. Give us one glass you love and we'll make sure you never drink a bad wine again. Our scientific methods remove the vague adjectives from wine descriptions, leaving only the true essence of each wine and making choosing your next glass as easy as drinking it. How's it work? We match your favorites to bottles in our Wine Genome Cellar&trade; to find the ones that are perfect for you.
